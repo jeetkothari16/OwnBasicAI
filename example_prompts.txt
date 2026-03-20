@@ -1,0 +1,7 @@
+Fast: List five ways students use AI in college.
+
+Big: Explain how ChatGPT generates responses.
+
+Reasoning: Outside a room are three switches. Inside the room is one light bulb. Only one switch controls the bulb. You may enter the room only once. How do you determine which switch controls the bulb?
+
+MOE: Write a Python function to check if a string is a palindrome and briefly explain how it works.

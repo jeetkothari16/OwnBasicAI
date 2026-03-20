@@ -1,0 +1,8 @@
+groq
+edge-tts
+sounddevice
+soundfile
+python-dotenv
+gtts
+rich
+prompt_toolkit
